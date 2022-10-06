@@ -7,9 +7,61 @@ h2 {
 	font-size: 40px;
 	font-weight: 600;
 }*/
-
+/*
  p {
 	font-family: 'Roboto', sans-serif;
 	font-size: 24px;
-	font-weight: 900;
+	font-weight: 900;*/
 }
+/*This is end of first section*/
+
+.box {
+	width: 1170px;
+	margin: 0 auto;
+}
+
+h2 {
+	display: block;
+	font-size: 24px;
+	font-family: 'Roboto', sans-serif;
+
+}
+
+h3 {
+	color: #3d58a6;
+	font-size: 22px;
+	margin-bottom: 17px;
+}
+
+.cards {
+	margin-top: 32px;
+}
+
+.left-card, .right-card {
+	width: 570px;
+	height: 225px;
+	background-color: lightgray;
+	display: inline-block;
+	vertical-align: top;
+	padding: 18px 14px 24px 20px;
+}
+
+.left-card {
+	margin-right: 30px;
+}
+
+img {
+	margin-right: 60px;
+	vertical-align: top;
+}
+
+p {
+	font-size: 20px;
+	width: 355px;
+	height: 145px;
+	display: inline-block;
+	vertical-align: top;
+	line-height: 25px;
+
+}
+
